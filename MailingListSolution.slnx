@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="MailingListApp.Tests/MailingListApp.Tests.csproj" />
+  <Project Path="MailingListApp/MailingListApp.csproj" />
+</Solution>
